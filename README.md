@@ -68,8 +68,8 @@ The Beleren type family is comprised of nine fonts in total. Its fantastical nat
 
 I have included the beleren-bold TrueType (.ttf) in the *assets* folder. 
 
-If you enjoy the font, please consider support [the designer](https://delvefonts.com/). 
+If you enjoy the font, please consider supporting [the designer](https://delvefonts.com/). 
 
-## Help
+## Contribute
 
 Please create a pull request if you make any additions to the template that you would like to share. :blush:
