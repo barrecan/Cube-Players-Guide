@@ -16,6 +16,7 @@ INSERT PRINTED PICTURE
 Included is a Microsoft PowerPoint template (.potx) file. You can easily create your own Player's Guide by adding your card images and text in the templated input fields. Simply import this template into PowerPoint to get started. 
 
  **1. Create PowerPoint Presentation Using Template**
+
 *If using, remember to import Beleren font*. 
 
 **2. Add Card Images & Text to Templated Fields**
