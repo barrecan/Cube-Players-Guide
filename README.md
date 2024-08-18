@@ -1,9 +1,12 @@
 # Cube Player's Guide
 *A printable player's guide for Magic: the Gathering cube enthusiasts.* 
 
-#####Example Player's Guide
+###Example Player's Guide
 
-#####Player's Guide PowerPoint Template
+###Getting Started
+####Do
+
+###Player's Guide PowerPoint Template
 
 Included is a Microsoft PowerPoint template (.potx) file. You can easily create your own Player's Guide by adding your card images and text in the templated input fields. Simply import this template into PowerPoint to get started. 
 
@@ -12,7 +15,7 @@ ADD SCREENSHOT OF TEMPLATE
 **Where to get high-resolution card images?**
 [Scryfall.com](https://scryfall.com/) offers high-resolution images of every Magic card/printing imaginable. 
 
-#####Included Assets
+###Included Assets
 **Mana Symbols**
 
 Included in the *assets* folder are high-resolution .PNG/.SVG files for the 5 Magic colors, as well as a colorless icon. 
@@ -28,5 +31,7 @@ The Beleren type family is comprised of nine fonts in total. Its fantastical nat
 I have included the beleren-bold TrueType (.ttf) in the *assets* folder. 
 
 If you enjoy the font, please consider support [the designer](https://delvefonts.com/). 
+
+<img src="https://cdn.dribbble.com/users/4955/screenshots/2060807/media/cfaaa71bb53d789a078156754980e0f4.png?resize=800x600&vertical=center"  width="600" height="300">
 
 ![Beleren typeface](https://cdn.dribbble.com/users/4955/screenshots/2060807/media/cfaaa71bb53d789a078156754980e0f4.png?resize=800x600&vertical=center)
