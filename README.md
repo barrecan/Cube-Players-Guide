@@ -71,4 +71,4 @@ If you enjoy the font, please consider support [the designer](https://delvefonts
 
 ## Help
 
-Please create a pull request if you make any additions to the template you would like to share. :blush:
+Please create a pull request if you make any additions to the template that you would like to share. :blush:
