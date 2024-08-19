@@ -4,12 +4,9 @@
 ## Example Player's Guide
 Below is an example Player's Guide for [*The People's Cube*](https://cubecobra.com/cube/overview/barrecan), a powered vintage cube. 
 
-INSERT PRINTED PICTURE
-
-
-
-
-
+<p align="center">
+<img src="images/printed_example.jpg" alt="Example Printed Player's Guide Booklet" class="center" width="80%">
+</p>
 
 ## Getting Started
 
@@ -22,7 +19,7 @@ Included is a Microsoft PowerPoint template (.potx) file. You can easily create 
 **2. Add Card Images & Text to Templated Fields**
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/barrecan/Cube-Players-Guide/main/images/archetype_template.PNG?token=GHSAT0AAAAAACV7N5JJRE5744DNMPWEASO2ZWBR25A" alt="Archetype Slide Template" class="center" width="80%">
+	<img src="images/archetype_template.PNG.JPG" alt="Archetype Slide Template" class="center" width="80%">
 </p> 
 
 **3. Export Presentation Slides as Images (.JPG)**
@@ -50,7 +47,6 @@ The template includes title, table of contents, archetype, and recent additions 
 <img src="images/new_additions_slide.JPG" alt="Example Recent Additions Slide" class="center" width="80%">
 </p>
 
-
 ## Included Assets
 ### Mana Symbols
 
@@ -59,7 +55,7 @@ Included in the *assets* folder are high-resolution .PNG/.SVG files for the 5 Ma
 ### Beleren Font
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/barrecan/Cube-Players-Guide/main/images/beleren_typeface.png?token=GHSAT0AAAAAACV7N5JJ2YSDAM7VHZPJLYF6ZWBRX5A" alt="Beleren typeface" class="center" width="50%">
+	<img src="images/beleren_typeface.png" alt="Beleren typeface" class="center" width="50%">
 </p>
 
 The font used for the PowerPoint template is the beautiful *Beleren* type family. Commisioned in late 2012 by Wizards of the Coast, *Beleren* was designed by Delve Withrington for Magic: the Gathering branding. 
