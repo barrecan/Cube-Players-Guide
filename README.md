@@ -26,7 +26,7 @@ Included is a Microsoft PowerPoint template (.potx) file. You can easily create 
 
 **4. Print & Bind Images at Printshop**
 
-### Where can I get high-resolution card images?
+### Where can I find high-resolution card images?
 [Scryfall.com](https://scryfall.com/) offers high-resolution images of every Magic card/printing imaginable. 
 
 ## Included Slides
