@@ -19,7 +19,7 @@ Included is a Microsoft PowerPoint template (.potx) file. You can easily create 
 **2. Add Card Images & Text to Templated Fields**
 
 <p align="center">
-	<img src="images/archetype_template.PNG.JPG" alt="Archetype Slide Template" class="center" width="80%">
+	<img src="images/archetype_template.PNG" alt="Archetype Slide Template" class="center" width="80%">
 </p> 
 
 **3. Export Presentation Slides as Images (.JPG)**
