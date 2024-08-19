@@ -5,7 +5,7 @@
 Below is an example Player's Guide for [*The People's Cube*](https://cubecobra.com/cube/overview/barrecan), a powered vintage cube. 
 
 <p align="center">
-<img src="images/printed_example.jpg" alt="Example Printed Player's Guide Booklet" class="center" height="80%" width="80%">
+<img src="images/printed_example.jpg" alt="Example Printed Player's Guide Booklet" class="center" width="60%">
 </p>
 
 ## Getting Started
